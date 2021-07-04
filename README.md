@@ -48,7 +48,7 @@
 
 介绍了Java Web开发中的jsp代码
 
-## XII. 参考
+## 参考
 
 [狂神说Java Web](https://www.bilibili.com/video/BV12J411M7Sj?from=search&seid=16716586418184556368)
 
